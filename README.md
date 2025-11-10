@@ -146,9 +146,20 @@ Future success depends on **personalisation, regional targeting, and incentive-d
 
 ---
 
-## 🤝 Connect  
+## 🔒 License & Privacy Notice 
+This project uses publicly available data for educational purposes only.  
+No proprietary or confidential company information is shared.
+Credit: 365 DATA SCIENCE
+
+---
+
+### ⭐ If you found this project interesting  
+Give it a ⭐ on GitHub and connect with me to discuss financial analytics and Excel automation!
+
+
+## 🤝 For more details or collaboration opportunities, feel free to connect with me on 
 👤 **Nishi** — *Data Analyst | Excel | SQL | Tableau | Python*  
-🔗 [LinkedIn](#) | [GitHub Portfolio](#) | [Medium Case Study](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/nishigandhianalyst/) | [Email](nishigandhi1998@gmail.com)
 
 ---
 
