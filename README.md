@@ -154,7 +154,7 @@ Credit: 365 DATA SCIENCE
 ---
 
 ### ⭐ If you found this project interesting  
-Give it a ⭐ on GitHub and connect with me to discuss financial analytics and Excel automation!
+Give it a ⭐ on GitHub and connect with me to discuss Data analytics and Excel automation!
 
 
 ## 🤝 For more details or collaboration opportunities, feel free to connect with me on 
